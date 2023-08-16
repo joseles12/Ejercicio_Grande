@@ -1,0 +1,47 @@
+
+EJERCICIO - 16 AGOSTO
+------------------------
+
+AL arrancar aparece una pantalla donde pedira el nombre y apellidos
+boton para jugar y boton para salir de la aplicacion
+
+boton de jugar llevara una segunda pantalla, arriba saldra el nombre de antes
+abajo le saldra un tablero de casillas de 25 botones 5x5
+
+abajo tendra un boton de cancelar partida y otro para resolver
+
+cancelar, volvera a la pagina inicial
+
+
+Al entrar el tesoro, mina y todo estara de forma aleatorio
+
+Al pinchar pasara:
+
+1. No he acertado nada, se cambiara el boton a verde y con un texto que ponga vacio
+2. Le damos a mina, iremos a una nueva pantalla donde aperece una imagen diciendo que hemos perdido
+y un boton que de intentar de nuevo
+3. Acertar, otra pantalla con una imagen de hemos ganado y otro boton para reintentar
+
+Al volver intentar te lleva a la pantalla del tablero, generando todo de nuevo
+
+El boton de resolver, me enseña donde esta la mina y el tesoro , la mina estara en rojo y con una M 
+y el tesoro de amarillo y con una T 
+
+
+------------------------------------------
+
+En la pantalla inicial, sacaremos otro boton nuevo que sea la tabla de record que llevara a otra pantalla 
+donde se vea el nombre del usuario y cuantos botones pulso para poder ganar. (SHAREDPREFERENCES)
+
+
+---------------------------------------------
+
+Las casillas son botones ?
+Una unica funcion para todos los botones con los tags 
+Al generar donde esta la bandera y mina podemos asociar a un boton en concreto
+
+
+
+
+
+
